@@ -18,6 +18,6 @@ Add badges from somewhere like: [Ileriayo/markdown-badges](https://github.com/Il
 
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeei)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Streak](https://streak-stats.demolab.com?user=Xeei&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeiout)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeiout&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://streak-stats.demolab.com?user=aeiout&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats)
